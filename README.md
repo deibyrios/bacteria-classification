@@ -8,6 +8,18 @@
 - Xinyuan Cao	- xc2461
 - Akhil Punia	- ap3774
 
+## Faculty Sponsors
+Tal Danino, Assistant Professor, Biomedical EngineeringFu Foundation School of Engineering and Applied Science <br>
+Email:td2506@columbia.edu <br>
+Lab: http://daninolab.nyc/
+
+Svebor Karaman, Postdoc, Electrical Engineering <br>
+Email: sk4089@columbia.edu
+
+## Project Facilitator
+Sining Chen <br>
+Email: sc4549@columbia.edu
+
 ## Background
 
 Bacteria-related illnesses – caused by strains of Escherichia coli, Salmonella enterica, Listeria monocytogenes, Vibrio cholerae, Corynebacterium diptheriae, methicillin-resistant Staphylococcus aureus (MRSA), and Pseudomonas aeruginosa—are responsible for approximately 5 million deaths per year worldwide. Many of these infectious diseases are not only prevalent in the developing world, but are becoming more common in the developed world with increasing instances of food contamination, hospital-acquired infections, and bioterrorism.
