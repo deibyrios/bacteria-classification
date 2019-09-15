@@ -1,13 +1,12 @@
-# bacteria-classification
-Capstone Project - Bacteria classification
+# Capstone Project - Bacteria classification
 
 ## Team
-Andres Rios - dar2196
-Carlo Provinciali	- cp2984
-Paridhi Singh	- ps3060
-Jane Dong	- zd2221
-Xinyuan Cao	- xc2461
-Akhil Punia	- ap3774
+- Andres Rios - dar2196
+- Carlo Provinciali	- cp2984
+- Paridhi Singh	- ps3060
+- Jane Dong	- zd2221
+- Xinyuan Cao	- xc2461
+- Akhil Punia	- ap3774
 
 ## Background
 
@@ -19,3 +18,15 @@ identify and characterize bacterial species from environmental and clinical samp
 innovation. 
 
 The aim of this proposal is to develop a machine-learning based approach for the identification and characterization of bacteria via analysis of photographs of bacteria colonies from environmental samples grown on solid media in Petri dishes. The aim would be to build towards machine learning algorithm which could classify colonies on a plate into species, based on aspects such as colony morphology, color, and other features.
+
+## Dataset
+Images of bacterial colonies from soil samples. All in jpeg format:
+Scanned images of Petri dishes with well-separated colonies from a single species per plate (for training) and scanned images of Petri dishes, captured by Epson scanner at resolution ranging from 400 to 3200 dpi.  
+
+Additional Petri dishes from different species on the same plate (goal is to classify these).
+
+## Project Goal 
+The goal of this project is to build an algorithm that analyzes an image of a Petri dish
+with colonies from different bacterial species and classifies them by species. 
+
+One such deep learning classifier has already been developed to classify colonies from two species, K. pneumoniae and E. coli, which could be extended for the more varied dataset. However, there are a variety of approaches and the research goal of this project is to determine which types of algorithms for this task can perform best.
