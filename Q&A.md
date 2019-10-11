@@ -17,7 +17,7 @@ Ans:
 ### Deep Learning models need hundred thousands images or more to be successful. Are there only 200 images available for training?
 Ans: 
 
-### Folders in the Dataset are stamped with different times. Do images in the same types for folders (i.e. Serial) with different timestamps, correspond to images of the the same bacterial colonies but taken at different times?
+### Folders in the Dataset are stamped with different times. Do images in the same types for folders (i.e. Serial) but with different timestamps, correspond to images of the the same bacterial colonies but taken at different times?
 Ans: 
  
 
