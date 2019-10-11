@@ -9,7 +9,7 @@
 - Akhil Punia	- ap3774
 
 ## Faculty Sponsors
-Tal Danino, Assistant Professor, Biomedical EngineeringFu Foundation School of Engineering and Applied Science <br>
+Tal Danino, Assistant Professor, Biomedical Engineering, Fu Foundation School of Engineering and Applied Science <br>
 Email:td2506@columbia.edu <br>
 Lab: http://daninolab.nyc/
 
