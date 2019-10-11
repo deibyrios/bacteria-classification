@@ -53,6 +53,16 @@ with colonies from different bacterial species and classifies them by species.
 
 One such deep learning classifier has already been developed to classify colonies from two species, K. pneumoniae and E. coli, which could be extended for the more varied dataset. However, there are a variety of approaches and the research goal of this project is to determine which types of algorithms for this task can perform best.
 
+## Project Plan
+
+Project Plan can be found and updated [here](https://github.com/deibyrios/bacteria-classification/blob/master/Q%26A.md)
+
+## Meeting Minutes
+
+Q&A can be found and uploade [here](https://github.com/deibyrios/bacteria-classification/tree/master/Meeting%20minutes)
+
 ## Questions and Answers
 
 Q&A can be found and posted [here](https://github.com/deibyrios/bacteria-classification/blob/master/Q%26A.md)
+
+
