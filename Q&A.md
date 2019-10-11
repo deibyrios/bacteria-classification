@@ -17,7 +17,7 @@ Ans:
 ### Deep Learning models need hundred thousands images or more to be successful. Are there only 200 images available for training?
 Ans: 
 
-### Folders in the Dataset are stamped with different times. Do images in the same types for folders (i.e. Serial) with different timestamps, correspond to images of the the same bacterial colonies but taken at different times?
+### Folders in the Dataset are stamped with different times. Do images in the same types for folders (i.e. Serial) but with different timestamps, correspond to images of the the same bacterial colonies but taken at different times?
 Ans: 
  
 
@@ -27,3 +27,4 @@ Ans:
 Ans:
 
 ### In our view, annotating the images will cause a DL model to learn from artificially modified images. At testing time, the model will then try to classify raw images (with no annotation) which will cause the model to fail. In past computer visions classification projects, we just use the name of the file to identify the class or put different classes in different folders. Could we fully understand why should we annotate the images?
+Ans:
