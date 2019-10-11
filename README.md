@@ -13,8 +13,13 @@ Tal Danino, Assistant Professor, Biomedical Engineering, Fu Foundation School of
 Email:td2506@columbia.edu <br>
 Lab: http://daninolab.nyc/
 
+Dhruba Deb, Ph.D. Postdoctoral Research Scientist <br>
+Email: dhrubadeb@gmail.com <br>
+https://dhrudeb.com/
+
 Svebor Karaman, Postdoc, Electrical Engineering <br>
 Email: sk4089@columbia.edu
+
 
 ## Project Facilitator
 Sining Chen <br>
@@ -28,6 +33,8 @@ Identification and monitoring of bacteria outbreaks and antimicrobial resistance
 innovation. 
 
 The aim of this proposal is to develop a machine-learning based approach for the identification and characterization of bacteria via analysis of photographs of bacteria colonies from environmental samples grown on solid media in Petri dishes. The aim would be to build towards machine learning algorithm which could classify colonies on a plate into species, based on aspects such as colony morphology, color, and other features.
+
+
 
 ## Dataset
 Images of bacterial colonies from soil samples. All in jpeg format:
