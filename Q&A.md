@@ -27,3 +27,4 @@ Ans:
 Ans:
 
 ### In our view, annotating the images will cause a DL model to learn from artificially modified images. At testing time, the model will then try to classify raw images (with no annotation) which will cause the model to fail. In past computer visions classification projects, we just use the name of the file to identify the class or put different classes in different folders. Could we fully understand why should we annotate the images?
+Ans:
