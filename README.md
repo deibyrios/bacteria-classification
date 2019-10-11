@@ -34,9 +34,11 @@ innovation.
 
 The aim of this proposal is to develop a machine-learning based approach for the identification and characterization of bacteria via analysis of photographs of bacteria colonies from environmental samples grown on solid media in Petri dishes. The aim would be to build towards machine learning algorithm which could classify colonies on a plate into species, based on aspects such as colony morphology, color, and other features.
 
+A chapter written by faculty sponsors with useful concepts and bio terminologies can be found [here](https://github.com/deibyrios/bacteria-classification/blob/master/Background%20-%20Domain%20Knowledge/Paper%20on%20Programmable%20Bacteria.pdf)
 
 
 ## Dataset
+
 Images of bacterial colonies from soil samples. All in jpeg format:
 Scanned images of Petri dishes with well-separated colonies from a single species per plate (for training) and scanned images of Petri dishes, captured by Epson scanner at resolution ranging from 400 to 3200 dpi.  
 
@@ -45,7 +47,12 @@ Additional Petri dishes from different species on the same plate (goal is to cla
 Images can be downloaded from this [link](https://drive.google.com/open?id=116Iu8uSJcEYCIJd5cMJmms9B-bvQ5AG4) (200 images, about 100MB size).
 
 ## Project Goal 
+
 The goal of this project is to build an algorithm that analyzes an image of a Petri dish
 with colonies from different bacterial species and classifies them by species. 
 
 One such deep learning classifier has already been developed to classify colonies from two species, K. pneumoniae and E. coli, which could be extended for the more varied dataset. However, there are a variety of approaches and the research goal of this project is to determine which types of algorithms for this task can perform best.
+
+## Questions and Answers
+
+Q&A can be found and posted [here](https://github.com/deibyrios/bacteria-classification/blob/master/Q%26A.md)
