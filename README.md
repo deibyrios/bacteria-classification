@@ -59,7 +59,7 @@ Project Plan can be found and updated [here](https://github.com/deibyrios/bacter
 
 ## Meeting Minutes
 
-Q&A can be found and uploade [here](https://github.com/deibyrios/bacteria-classification/tree/master/Meeting%20minutes)
+Meeting minutes can be found and uploaded [here](https://github.com/deibyrios/bacteria-classification/tree/master/Meeting%20minutes)
 
 ## Questions and Answers
 
