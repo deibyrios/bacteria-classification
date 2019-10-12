@@ -9,3 +9,4 @@ innovation.
 
 The aim of this proposal is to develop a machine-learning based approach for the identification and characterization of bacteria via analysis of photographs of bacteria colonies from environmental samples grown on solid media in Petri dishes. The aim would be to build towards machine learning algorithm which could classify colonies on a plate into species, based on aspects such as colony morphology, color, and other features.
 
+A chapter written by faculty sponsors with useful concepts and bio terminologies can be found [here](https://github.com/deibyrios/bacteria-classification/blob/master/Background%20-%20Domain%20Knowledge/Paper%20on%20Programmable%20Bacteria.pdf)
