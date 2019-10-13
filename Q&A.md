@@ -17,6 +17,9 @@ Ans:
 ### Deep Learning models need hundred thousands images or more to be successful. Are there only 200 images available for training?
 Ans: 
 
+### Is there a different Dataset with images to test the model once final model in selected? If no, which type of images should we use for testing (type of images that will be used in a real life situation)?
+Ans: 
+
 ### Folders in the Dataset are stamped with different times. Do images in the same type of folders (i.e. Serial) but with different timestamps, correspond to images of the the same bacterial colonies but taken at different times?
 Ans: 
  
