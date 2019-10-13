@@ -9,19 +9,19 @@ Ans:
 ## DATASET
 
 ### The Dataset contains 3 types of folders with 3 different types of images: Serial, Streak and Control. What is the meaning / purpose of each of those? 
-Ans: 
+Ans: The control is just one drop of bacteria-filled solution growing over time. The circular region is the space of how the initial drop. "Serial" has multiple drops but they are separate from each other so you can tell individual colonies apart. For "Streak", they are drawing lines across the petri dish with pipettes with different concentrations. More than one drop is used for "Streak".
 
 ### Images in 'Serial' folders are annotated with numbers 1-9. Do those numbers correspond to different bacterial species?
 Ans:
 
 ### Deep Learning models need hundred thousands images or more to be successful. Are there only 200 images available for training?
-Ans: 
+Ans: Yes. They might be able to collect additional images but it is a time consuming process and will not get close to the scale needed to fully train deep learning models. We could consider using external/third party datasets if we can access them.
 
 ### Is there a different Dataset with images to test the model once final model in selected? If no, which type of images should we use for testing (type of images that will be used in a real life situation)?
-Ans: 
+Ans: No additional dataset as far as I know
 
 ### Folders in the Dataset are stamped with different times. Do images in the same type of folders (i.e. Serial) but with different timestamps, correspond to images of the the same bacterial colonies but taken at different times?
-Ans: 
+Ans: some of the colonies have pictures taken twice a day (every 12 hours) to document their growth.
  
 
 ## IMAGE pre-processing
