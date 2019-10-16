@@ -2,7 +2,7 @@
 
 1.	Special Emphasis on Breakthrough in Computer Vision
   a.	Object Detection
-    i.	CNNs ($AlexNet_{1}$, ImageNet_{2}, ResNet_{3})
+    i.	CNNs ($AlexNet<sup>1</sup>, ImageNet_{2}, ResNet_{3})
   b.	Image Segmentation
     i.	RCNN_{4}
     ii.	U-Net_{5}
