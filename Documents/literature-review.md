@@ -2,22 +2,22 @@
 
 1.	Special Emphasis on Breakthrough in Computer Vision
   a.	Object Detection
-    i.	CNNs ($AlexNet<sup>1</sup>, ImageNet_{2}, ResNet_{3})
+    i.	CNNs (AlexNet<sup>1</sup>, ImageNet<sup>2<\sup>, ResNet<sup>3<\sup>)
   b.	Image Segmentation
-    i.	RCNN_{4}
-    ii.	U-Net_{5}
+    i.	RCNN<sup>4<\sup>
+    ii.	U-Net<sup>5<\sup>
 2.	Medical Imaging and Computer Vision
-  a.	Chest Image – CheXNet_{6}, DenseNet_{7}
-  b.	Diabetic Retinopathy_{8}
-  c.	Skin Lesions_{9}
+  a.	Chest Image – CheXNet<sup>6<\sup>, DenseNet<sup>7<\sup>
+  b.	Diabetic Retinopathy<sup>8<\sup>
+  c.	Skin Lesions<sup>9<\sup>
 3.	Previous approaches to Bacterial Classification
-  a.	Neural Network – Bacterial Colony Classification_{10}
-  b.	Deep learning - Bacterial Colony Classification_{11}
-  c.	Bacterial Image Segmentation_{12}
+  a.	Neural Network – Bacterial Colony Classification<sup>10<\sup>
+  b.	Deep learning - Bacterial Colony Classification<sup>11<\sup>
+  c.	Bacterial Image Segmentation<sup>12<\sup>
 
 ## 1
 ### 1a
-Last decade has seen remarkable developments in the field of building image classifiers using computer vision.  The era of deep learning started with the success of AlexNet1 on the benchmark computer vision dataset, Imagenet (Russakovsky et al., 2019)2 focused on studying natural world images. This result was steadily followed by development large and deeper neural network architectures in the following years. These architectures saw remarkable improvement in model performance in contrast to any other traditional methods that included hand crafting features in literature. By 2015, models like ResNet (He et al., 2019)3 were performing better than a human baseline. This motivated researchers to make similar progress on even difficult tasks such as image segmentation.
+Last decade has seen remarkable developments in the field of building image classifiers using computer vision.  The era of deep learning started with the success of AlexNet<sup>1</sup> on the benchmark computer vision dataset, Imagenet (Russakovsky et al., 2019)<sup>2</sup> focused on studying natural world images. This result was steadily followed by development large and deeper neural network architectures in the following years. These architectures saw remarkable improvement in model performance in contrast to any other traditional methods that included hand crafting features in literature. By 2015, models like ResNet (He et al., 2019)<sup>3</sup> were performing better than a human baseline. This motivated researchers to make similar progress on even difficult tasks such as image segmentation.
 
 ### 1b
 Biggest breakthrough of computer vision algorithms for image segmentation came in the form of U-Net which designed for solving the challenge of Cell tracking. The advantage of the method stemmed from its ability to learn from limited training data making it all the more effective for a wide variety of biomedical tasks.
@@ -26,14 +26,14 @@ Biggest breakthrough of computer vision algorithms for image segmentation came i
 The problem of using automated computer vision algorithms for the purposes of improving diagnosis from medical images is not a new phenomenon. Researchers have long been interested in applying the latest advancements in machine learning to improve the accuracy of their diagnostic procedures and achieve quick and reliable results.  
 
 ### 2a
-Rajpurkar et al.6, used a modified version of state-of-the-art DenseNet (Huang et al., 2019)7
+Rajpurkar et al.6, used a modified version of state-of-the-art DenseNet (Huang et al., 2019)<sup>7</sup>
 algorithm for exceeding human level performance on the task of detecting pneumonia by looking chest X-ray images. By visualizing the internal layers of the network, researchers were able to understand which the portion of images were responsible behind activation of the classifier. 
 
 ### 2b
 Another example for using medical image to improve diagnosis comes studying detecting diabetic retinopathy from retina scans. 
 
 ### 2c 
-In a recent paper from a collaboration between researchers at Google and dermatologists9, a model was developed that employs using Convolutional Neural Networks as image feature extractors and combining them with the other available information from patient’s medical history to predict the existence of a certain skin condition. This hybrid approach is designed to utilize the available metadata along with raw images to incorporate more information while building our classifier.
+In a recent paper from a collaboration between researchers at Google and dermatologists<sup>9</sup>, a model was developed that employs using Convolutional Neural Networks as image feature extractors and combining them with the other available information from patient’s medical history to predict the existence of a certain skin condition. This hybrid approach is designed to utilize the available metadata along with raw images to incorporate more information while building our classifier.
 
 ### 3a
 
