@@ -43,15 +43,26 @@ In a recent paper from a collaboration between researchers at Google and dermato
 
 # References
 
-* [1] Krizhevsky, A., Sutskever, I. and Hinton, G. (2019). ImageNet Classification with Deep Convolutional Neural Networks. [online] Papers.nips.cc. Available at: https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks [Accessed 16 Oct. 2019].
-* [2] Russakovsky, O., Deng, J., Su, H., Krause, J., Satheesh, S., Ma, S., Huang, Z., Karpathy, A., Khosla, A., Bernstein, M., Berg, A. and Fei-Fei, L. (2019). ImageNet Large Scale Visual Recognition Challenge. [online] arXiv.org. Available at: https://arxiv.org/abs/1409.0575 [Accessed 16 Oct. 2019]
-* [3] He, K., Zhang, X., Ren, S. and Sun, J. (2019). Deep Residual Learning for Image Recognition. [online] arXiv.org. Available at: https://arxiv.org/abs/1512.03385 [Accessed 16 Oct. 2019].
-* [4] Girshick, R., Donahue, J., Darrell, T. and Malik, J. (2019). Rich feature hierarchies for accurate object detection and semantic segmentation. [online] arXiv.org. Available at: https://arxiv.org/abs/1311.2524 [Accessed 16 Oct. 2019].
-* [5] Ronneberger, O., Fischer, P. and Brox, T. (2019). U-Net: Convolutional Networks for Biomedical Image Segmentation. [online] arXiv.org. Available at: https://arxiv.org/abs/1505.04597 [Accessed 16 Oct. 2019].
-* [6] Rajpurkar, P., Irvin, J., Zhu, K., Yang, B., Mehta, H., Duan, T., Ding, D., Bagul, A., Langlotz, C., Shpanskaya, K., Lungren, M. and Ng, A. (2019). CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning. [online] arXiv.org. Available at: https://arxiv.org/abs/1711.05225 [Accessed 16 Oct. 2019].
-* [7] Huang, G., Liu, Z., van der Maaten, L. and Weinberger, K. (2019). Densely Connected Convolutional Networks. [online] arXiv.org. Available at: https://arxiv.org/abs/1608.06993 [Accessed 16 Oct. 2019].
-* [8] Sayres, Rory et al., Using a Deep Learning Algorithm and Integrated Gradients Explanation to Assist Grading for Diabetic Retinopathy, Ophthalmology, Volume 126, Issue 4, 552 – 564
-* [9] Liu, Y., Jain, A., Eng, C., Way, D., Lee, K., Bui, P., Kanada, K., Marinho, G., Gallegos, J., Gabriele, S., Gupta, V., Singh, N., Natarajan, V., Hofmann-Wellenhof, R., Corrado, G., Peng, L., Webster, D., Ai, D., Huang, S., Liu, Y., Dunn, R. and Coz, D. (2019). A deep learning system for differential diagnosis of skin diseases. [online] arXiv.org. Available at: https://arxiv.org/abs/1909.05382 [Accessed 16 Oct. 2019].
-* [10] https://doi.org/10.1186/s12976-018-0093-x
-* [11] https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0184554 
-* [12] Dong Nie, Elizabeth A. Shank, and Vladimir Jojic. 2015. A deep framework for bacterial image segmentation and classification. In Proceedings of the 6th ACM Conference on Bioinformatics, Computational Biology and Health Informatics (BCB '15). ACM, New York, NY, USA, 306-314. DOI: http://dx.doi.org/10.1145/2808719.2808751 
+1. Krizhevsky, A., Sutskever, I. and Hinton, G. (2019). ImageNet Classification with Deep Convolutional Neural Networks. [online] Papers.nips.cc. Available at: https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks [Accessed 16 Oct. 2019].
+
+2. Russakovsky, O., Deng, J., Su, H., Krause, J., Satheesh, S., Ma, S., Huang, Z., Karpathy, A., Khosla, A., Bernstein, M., Berg, A. and Fei-Fei, L. (2019). ImageNet Large Scale Visual Recognition Challenge. [online] arXiv.org. Available at: https://arxiv.org/abs/1409.0575 [Accessed 16 Oct. 2019]
+
+3. He, K., Zhang, X., Ren, S. and Sun, J. (2019). Deep Residual Learning for Image Recognition. [online] arXiv.org. Available at: https://arxiv.org/abs/1512.03385 [Accessed 16 Oct. 2019].
+
+4. Girshick, R., Donahue, J., Darrell, T. and Malik, J. (2019). Rich feature hierarchies for accurate object detection and semantic segmentation. [online] arXiv.org. Available at: https://arxiv.org/abs/1311.2524 [Accessed 16 Oct. 2019].
+
+5. Ronneberger, O., Fischer, P. and Brox, T. (2019). U-Net: Convolutional Networks for Biomedical Image Segmentation. [online] arXiv.org. Available at: https://arxiv.org/abs/1505.04597 [Accessed 16 Oct. 2019].
+
+6. Rajpurkar, P., Irvin, J., Zhu, K., Yang, B., Mehta, H., Duan, T., Ding, D., Bagul, A., Langlotz, C., Shpanskaya, K., Lungren, M. and Ng, A. (2019). CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning. [online] arXiv.org. Available at: https://arxiv.org/abs/1711.05225 [Accessed 16 Oct. 2019].
+
+7. Huang, G., Liu, Z., van der Maaten, L. and Weinberger, K. (2019). Densely Connected Convolutional Networks. [online] arXiv.org. Available at: https://arxiv.org/abs/1608.06993 [Accessed 16 Oct. 2019].
+
+8. Sayres, Rory et al., Using a Deep Learning Algorithm and Integrated Gradients Explanation to Assist Grading for Diabetic Retinopathy, Ophthalmology, Volume 126, Issue 4, 552 – 564
+
+9. Liu, Y., Jain, A., Eng, C., Way, D., Lee, K., Bui, P., Kanada, K., Marinho, G., Gallegos, J., Gabriele, S., Gupta, V., Singh, N., Natarajan, V., Hofmann-Wellenhof, R., Corrado, G., Peng, L., Webster, D., Ai, D., Huang, S., Liu, Y., Dunn, R. and Coz, D. (2019). A deep learning system for differential diagnosis of skin diseases. [online] arXiv.org. Available at: https://arxiv.org/abs/1909.05382 [Accessed 16 Oct. 2019].
+
+10. https://doi.org/10.1186/s12976-018-0093-x
+
+11. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0184554 
+
+12. Dong Nie, Elizabeth A. Shank, and Vladimir Jojic. 2015. A deep framework for bacterial image segmentation and classification. In Proceedings of the 6th ACM Conference on Bioinformatics, Computational Biology and Health Informatics (BCB '15). ACM, New York, NY, USA, 306-314. DOI: http://dx.doi.org/10.1145/2808719.2808751 
