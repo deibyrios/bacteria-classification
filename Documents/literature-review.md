@@ -1,19 +1,19 @@
 # LITERATURE REVIEW
 
-1.	Special Emphasis on Breakthrough in Computer Vision
-  a.	Object Detection
-    i.	CNNs (AlexNet <sup>1</sup>, ImageNet <sup>2</sup>, ResNet <sup>3</sup>)
-  b.	Image Segmentation
-    i.	RCNN <sup>4</sup>
-    ii.	U-Net <sup>5</sup>
-2.	Medical Imaging and Computer Vision
-  a.	Chest Image – CheXNet <sup>6</sup>, DenseNet <sup>7<\sup>
-  b.	Diabetic Retinopathy <sup>8</sup>
-  c.	Skin Lesions <sup>9</sup>
-3.	Previous approaches to Bacterial Classification
-  a.	Neural Network – Bacterial Colony Classification <sup>10</sup>
-  b.	Deep learning - Bacterial Colony Classification <sup>11</sup>
-  c.	Bacterial Image Segmentation <sup>12</sup>
+*1.	Special Emphasis on Breakthrough in Computer Vision
+  *a.	Object Detection
+    *i.	CNNs (AlexNet <sup>1</sup>, ImageNet <sup>2</sup>, ResNet <sup>3</sup>)
+  *b.	Image Segmentation
+    *i.	RCNN <sup>4</sup>
+    *ii.	U-Net <sup>5</sup>
+*2.	Medical Imaging and Computer Vision
+  *a.	Chest Image – CheXNet <sup>6</sup>, DenseNet <sup>7</sup>
+  *b.	Diabetic Retinopathy <sup>8</sup>
+  *c.	Skin Lesions <sup>9</sup>
+*3.	Previous approaches to Bacterial Classification
+  *a.	Neural Network – Bacterial Colony Classification <sup>10</sup>
+  *b.	Deep learning - Bacterial Colony Classification <sup>11</sup>
+  *c.	Bacterial Image Segmentation <sup>12</sup>
 
 ## 1
 ### 1a
